@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pikacus</folder>
+	<filename>112.jpg</filename>
+	<path>D:\pikacus\112.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>174</width>
+		<height>289</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pikachu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>10</ymin>
+			<xmax>173</xmax>
+			<ymax>102</ymax>
+		</bndbox>
+	</object>
+</annotation>
